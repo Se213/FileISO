@@ -1,0 +1,11 @@
+C:\Users\seane\source\repos\FileISO\FileISO\bin\Debug\netcoreapp3.1\FileISO.exe
+C:\Users\seane\source\repos\FileISO\FileISO\bin\Debug\netcoreapp3.1\FileISO.deps.json
+C:\Users\seane\source\repos\FileISO\FileISO\bin\Debug\netcoreapp3.1\FileISO.runtimeconfig.json
+C:\Users\seane\source\repos\FileISO\FileISO\bin\Debug\netcoreapp3.1\FileISO.runtimeconfig.dev.json
+C:\Users\seane\source\repos\FileISO\FileISO\bin\Debug\netcoreapp3.1\FileISO.dll
+C:\Users\seane\source\repos\FileISO\FileISO\bin\Debug\netcoreapp3.1\FileISO.pdb
+C:\Users\seane\source\repos\FileISO\FileISO\obj\Debug\netcoreapp3.1\FileISO.csprojAssemblyReference.cache
+C:\Users\seane\source\repos\FileISO\FileISO\obj\Debug\netcoreapp3.1\FileISO.AssemblyInfoInputs.cache
+C:\Users\seane\source\repos\FileISO\FileISO\obj\Debug\netcoreapp3.1\FileISO.AssemblyInfo.cs
+C:\Users\seane\source\repos\FileISO\FileISO\obj\Debug\netcoreapp3.1\FileISO.dll
+C:\Users\seane\source\repos\FileISO\FileISO\obj\Debug\netcoreapp3.1\FileISO.pdb
